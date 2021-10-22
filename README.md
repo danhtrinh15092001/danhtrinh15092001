@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=danhtrinh15092001&show_icons=true&theme=onedark&hide=issues'>
+      <img src='https://github-readme-stats.vercel.app/api?username=danhtrinh15092001&show_icons=true&theme=cobalt&hide=issues'>
     </td>
     <td>
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=danhtrinh15092001&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
